@@ -92,7 +92,7 @@ public class programmers2 {
 
 ## ⏱️ 시간 복잡도
 
-- 패턴 비교: O(n)
+- 패턴 비교: O(n) <br>
   n = answers.length일 때, 각 수포자와의 비교는 1회 순회로 끝나므로 선형 시간입니다.
 
 - 총 시간 복잡도: O(n)
