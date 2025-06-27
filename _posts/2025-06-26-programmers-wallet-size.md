@@ -2,6 +2,7 @@
 title: "프로그래머스 최소 지갑 크기 문제"
 categories: [코딩테스트]
 tags: [Java, 완전 탐색]
+toc: true
 date: 2025-06-26 10:00:00 +0900
 layout: single
 author_profile: true

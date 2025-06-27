@@ -2,6 +2,7 @@
 title: "프로그래머스 모의고사 문제"
 categories: [코딩테스트]
 tags: [완전탐색, Java, 구현]
+toc: true
 date: 2025-06-27 10:00:00 +0900
 layout: single
 author_profile: true
