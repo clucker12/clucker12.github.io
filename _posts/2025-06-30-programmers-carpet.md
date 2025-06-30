@@ -2,7 +2,7 @@
 title: "프로그래머스 카펫 문제"
 categories: [코딩테스트]
 tags: [완전탐색, 구현, Java]
-date: 2025-07-02 10:00:00 +0900
+date: 2025-06-30 10:00:00 +0900
 layout: single
 author_profile: true
 read_time: true
