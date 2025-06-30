@@ -2,7 +2,7 @@
 title: "프로그래머스 소수 찾기 문제 - 문자열 조합"
 categories: [코딩테스트]
 tags: [완전탐색, 소수, 문자열, Java]
-date: 2025-07-03 10:00:00 +0900
+date: 2025-06-29 10:00:00 +0900
 layout: single
 author_profile: true
 read_time: true
