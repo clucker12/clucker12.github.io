@@ -10,7 +10,6 @@ share: true
 show_tags: true
 show_categories: true
 toc: true
-
 sidebar:
   nav: "c"
 ---
